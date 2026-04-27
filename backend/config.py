@@ -17,7 +17,7 @@ COUNCIL_MODELS = [
 ]
 
 # Chairman model - synthesizes final response
-CHAIRMAN_MODEL = "nvidia/llama-3.1-nemotron-ultra-253b-v1:free"
+CHAIRMAN_MODEL = "meta-llama/llama-3.3-70b-instruct:free"
 
 # OpenRouter API endpoint
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
